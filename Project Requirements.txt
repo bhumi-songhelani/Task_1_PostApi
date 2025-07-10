@@ -1,0 +1,4 @@
+Project Requirements
+Django – Web framework to build the project.
+
+djangorestframework – For creating REST APIs with Django.
